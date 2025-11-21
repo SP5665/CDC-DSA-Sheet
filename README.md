@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -27,4 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
