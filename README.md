@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2643-row-with-maximum-ones) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
