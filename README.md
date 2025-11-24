@@ -102,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
