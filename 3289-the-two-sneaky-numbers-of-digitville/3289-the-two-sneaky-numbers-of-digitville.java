@@ -1,13 +1,11 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        HashMap<Integer, Integer> hm = new HashMap<>();
-        for (int i=0; i<nums.length; i++) {
-            hm.put(nums[i], hm.getOrDefault(nums[i], 0) + 1);
-        }
+        HashSet<Integer> hs = new HashSet<>();
         int[] ans = new int[2];
-        int i=0;
-        for (int key : hm.keySet()) {
-            if (hm.get(key) > 1) ans[i++] = key;
+        int j=0;
+        for (int num : nums) {
+            if (hs.contains(num)) ans[j++] = num;
+            else hs.add(num);
         }
         return ans;
     }
