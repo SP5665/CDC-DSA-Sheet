@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 ## Counting
 |  |
 | ------- |
