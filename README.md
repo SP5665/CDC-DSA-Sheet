@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0626-exchange-seats) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
