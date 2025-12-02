@@ -122,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0061-rotate-list) |
+| [0707-design-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
