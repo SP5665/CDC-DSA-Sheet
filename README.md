@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3745-maximize-expression-of-three-elements) |
 ## Greedy
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
