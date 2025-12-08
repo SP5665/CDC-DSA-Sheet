@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
