@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0053-maximum-subarray) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0075-sort-colors) |
