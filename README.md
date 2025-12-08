@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Heap (Priority Queue)
 |  |
