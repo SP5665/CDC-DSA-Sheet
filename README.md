@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0338-counting-bits) |
