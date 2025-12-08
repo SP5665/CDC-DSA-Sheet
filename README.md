@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0232-implement-queue-using-stacks) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
