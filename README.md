@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0338-counting-bits) |
 ## Quickselect
 |  |
