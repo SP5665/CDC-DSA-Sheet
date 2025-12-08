@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0231-power-of-two) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
