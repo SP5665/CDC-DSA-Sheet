@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0278-first-bad-version) |
