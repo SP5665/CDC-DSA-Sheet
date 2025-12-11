@@ -15,7 +15,8 @@ class Solution {
         int hours = 0;
         for (int pile : piles) {
             int d = pile/k;
-            hours = (pile % k == 0)? hours + d : hours + d+1; //ceil(pile/k)
+            if (pile%k == 0) hours+=d;
+            else hours+=(d+1); //ceil(pile/k)
         }
         return !(hours > h); //cant finish
     }
