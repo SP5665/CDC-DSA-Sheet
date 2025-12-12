@@ -4,7 +4,10 @@ class Solution {
         int n1 = nums1.length;
         int n2 = nums2.length;
         for (int i=n2-1; i>=0; i--) {
-            int keyIdx = linearSearch(nums1, nums2[i], n1);
+            int keyIdx = -1;
+            for (int j=0; j<n1; j++) {
+                if (nums1[j] == nums2[i]) keyIdx = j;
+            }
             if (keyIdx != -1) {
                 while (!s.isEmpty() && s.peek()<=nums2[i]) {
                     s.pop();
@@ -14,11 +17,5 @@ class Solution {
             s.push(nums2[i]);
         }
         return nums1;
-    }
-    public int linearSearch(int[] nums, int key, int n) {
-        for (int i=0; i<n; i++) {
-            if (nums[i] == key) return i;
-        }
-        return -1;
     }
 }
