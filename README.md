@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
