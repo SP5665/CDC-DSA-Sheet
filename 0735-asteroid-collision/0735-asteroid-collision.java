@@ -18,7 +18,8 @@ class Solution {
             if (toPush) s.push(a);
         }
         int n = s.size();
-        for (int i=n-1; i>=0; i--) asteroids[i] = s.pop();
-        return Arrays.copyOf(asteroids, n);
+        int[] ans = new int[n];
+        for (int i=n-1; i>=0; i--) ans[i] = s.pop();
+        return ans;
     }
 }
