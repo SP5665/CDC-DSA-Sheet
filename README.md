@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0204-count-primes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
