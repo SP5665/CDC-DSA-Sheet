@@ -8,7 +8,9 @@ class Solution {
         suffix[n-1] = 0;
         for (int i=0; i<n-1; i++) {
             prefix[i+1] = prefix[i] + nums[i];
-            suffix[n-i-2] = suffix[n-i-1] + nums[n-i-1];
+        }
+        for (int i=n-1; i>0; i--) {
+            suffix[i-1] = suffix[i] + nums[i];
         }
         for (int i=0; i<n; i++) {
             ans[i] = Math.abs(prefix[i] - suffix[i]);
