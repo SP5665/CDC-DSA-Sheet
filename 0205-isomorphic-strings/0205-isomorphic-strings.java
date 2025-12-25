@@ -1,7 +1,6 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         HashMap<Character, Character> hm = new HashMap<>();
-        Set<Character> hs = new HashSet<>();
         for (int i=0; i<s.length(); i++) {
             char sChar = s.charAt(i);
             char tChar = t.charAt(i);
@@ -9,9 +8,8 @@ class Solution {
                 if (hm.get(sChar) != tChar) return false;
             }
             else {
-                if (!hs.contains(tChar)) {
+                if (!hm.containsValue(tChar)) {
                     hm.put(sChar, tChar);
-                    hs.add(tChar);
                 }
                 else return false;
             }
