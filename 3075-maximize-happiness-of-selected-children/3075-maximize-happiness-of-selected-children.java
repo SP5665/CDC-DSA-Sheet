@@ -1,17 +1,16 @@
 class Solution {
     public long maximumHappinessSum(int[] happiness, int k) {
         Arrays.sort(happiness);
-        long ans=0;
-        int n=happiness.length;
-        for(int i=0;i<k;i++){
-            int max=happiness[n-i-1]-i;
-            if(max>0){
-                ans+=max;
-            }
-            else{
-                break;
-            }
+        int i = happiness.length-1;
+        long res = 0;
+        int val = 0;
+        while (k>0) {
+            long a = happiness[i--]-val;
+            if (a<=0) break;
+            res += a;
+            val++;
+            k--;
         }
-        return ans;
+        return res;
     }
 }
