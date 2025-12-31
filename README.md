@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0735-asteroid-collision) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0605-can-place-flowers) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0860-lemonade-change) |
