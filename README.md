@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0605-can-place-flowers) |
+| [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0735-asteroid-collision) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2485-find-the-pivot-integer) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 ## Enumeration
 |  |
 | ------- |
