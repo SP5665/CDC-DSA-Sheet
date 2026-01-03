@@ -4,7 +4,7 @@ class Solution {
         formSubset(nums, 0, new ArrayList<>(), list);
         return list;
     }
-    public static void formSubset(int nums[],int i,List<Integer> ans,List<List<Integer>> list) {
+    public void formSubset(int nums[],int i,List<Integer> ans,List<List<Integer>> list) {
         if (i == nums.length) {
             list.add(new ArrayList<>(ans));
             return;
