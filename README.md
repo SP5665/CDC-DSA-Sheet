@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
