@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0586-customer-placing-the-largest-number-of-orders) |
