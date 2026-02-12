@@ -17,7 +17,8 @@ class Solution {
             //this is the split point
             return root;
         }
-        //otherwise, return the not null node
+        //it means pq are in paent-child relation
+        //return the not null node
         if(left!=null) return left;
         else return right;
     }
