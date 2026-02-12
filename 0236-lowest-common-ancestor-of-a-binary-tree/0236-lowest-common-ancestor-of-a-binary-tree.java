@@ -18,6 +18,7 @@ class Solution {
             return root;
         }
         //otherwise, return the not null node
-        return (left!=null)? left : right;
+        if(left!=null) return left;
+        else return right;
     }
 }
