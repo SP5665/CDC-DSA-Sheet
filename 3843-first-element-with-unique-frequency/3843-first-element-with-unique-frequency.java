@@ -5,19 +5,12 @@ class Solution {
         for (int num : nums) {
             freq.put(num, freq.getOrDefault(num, 0)+1);
         }
-        for (int key : freq.keySet()) {
-            freqCount.put(freq.get(key), freqCount.getOrDefault(freq.get(key), 0)+1);
+        for (int val : freq.values()) {
+            freqCount.put(val, freqCount.getOrDefault(val, 0)+1);
         }
-        int val = -1;
-        for (int key : freqCount.keySet()) {
-            if (freqCount.get(key) == 1) {
-                val = key;
-                break;
-            }
-        }
-        for (int key : freq.keySet()) {
-            if (freq.get(key) == val) {
-                return key;
+        for (int num : nums) {
+            if (freqCount.get(freq.get(num)) == 1) {
+                return num;
             }
         }
         return -1;
