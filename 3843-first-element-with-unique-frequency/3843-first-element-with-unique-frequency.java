@@ -1,7 +1,7 @@
 class Solution {
     public int firstUniqueFreq(int[] nums) {
-        Map<Integer, Integer> freq = new LinkedHashMap<>();
-        Map<Integer, Integer> freqCount = new LinkedHashMap<>();
+        HashMap<Integer, Integer> freq = new LinkedHashMap<>();
+        HashMap<Integer, Integer> freqCount = new LinkedHashMap<>();
         for (int num : nums) {
             freq.put(num, freq.getOrDefault(num, 0)+1);
         }
