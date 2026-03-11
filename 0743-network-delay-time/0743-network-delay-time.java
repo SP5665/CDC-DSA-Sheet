@@ -17,6 +17,7 @@ class Solution {
             int[] curr = pq.poll();
             int node = curr[0];
             int d = curr[1]; //shortest dist to reach this node
+            if (d > dist[node]) continue;
             for (int[] neigh : graph.get(node)) {
                 int val = neigh[0];
                 int weight = neigh[1];
