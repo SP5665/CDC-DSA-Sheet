@@ -8,11 +8,9 @@ class Solution {
             hm.put(i[0], hm.getOrDefault(i[0], 0)+i[1]);
         }
         List<List<Integer>> arr = new ArrayList<>();
-        for (int i=0; i<hm.size(); i++) {
-            arr.add(new ArrayList<>());
-        }
         int i=0;
         for (int key : hm.keySet()) {
+            arr.add(new ArrayList<>());
             arr.get(i).add(key);
             arr.get(i).add(hm.get(key));
             i++;
