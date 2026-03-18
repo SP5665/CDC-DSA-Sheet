@@ -10,10 +10,7 @@ class Solution {
         List<List<Integer>> arr = new ArrayList<>();
         int i=0;
         for (int key : hm.keySet()) {
-            arr.add(new ArrayList<>());
-            arr.get(i).add(key);
-            arr.get(i).add(hm.get(key));
-            i++;
+            arr.add(Arrays.asList(key, hm.get(key)));
         }
         return arr;
     }
