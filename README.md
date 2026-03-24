@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1193-monthly-transactions-i) |
 | [1393-capital-gainloss](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1393-capital-gainloss) |
+| [1667-fix-names-in-a-table](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1978-employees-whose-manager-left-the-company) |
