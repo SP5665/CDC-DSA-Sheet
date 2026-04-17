@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0179-largest-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0231-power-of-two) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
