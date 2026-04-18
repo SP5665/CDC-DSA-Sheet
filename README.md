@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1193-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1393-capital-gainloss) |
