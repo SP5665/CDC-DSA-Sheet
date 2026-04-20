@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2363-merge-similar-items](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2363-merge-similar-items) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0860-lemonade-change) |
 | [1328-break-a-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1328-break-a-palindrome) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3745-maximize-expression-of-three-elements) |
