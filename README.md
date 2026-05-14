@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2363-merge-similar-items](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2363-merge-similar-items) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
 | [2363-merge-similar-items](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2363-merge-similar-items) |
+| [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3745-maximize-expression-of-three-elements) |
 ## Divide and Conquer
