@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
