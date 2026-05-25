@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0189-rotate-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0237-delete-node-in-a-linked-list) |
