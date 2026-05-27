@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3719-longest-balanced-subarray-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1328-break-a-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1328-break-a-palindrome) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3330-find-the-original-typed-string-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3330-find-the-original-typed-string-i) |
 ## Heap (Priority Queue)
 |  |
