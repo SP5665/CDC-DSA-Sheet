@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3719-longest-balanced-subarray-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
