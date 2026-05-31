@@ -4,10 +4,8 @@ class Solution {
         int n = asteroids.length;
         long curr = mass;
         for (int i=0; i<n; i++) {
-            if (asteroids[i] <= curr) {
-                curr += asteroids[i];
-            }
-            else return false;
+            if (asteroids[i] > curr) return false;
+            curr += asteroids[i];
         }
         return true;
     }
