@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2363-merge-similar-items](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2363-merge-similar-items) |
 | [2540-minimum-common-value](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2574-left-and-right-sum-differences) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0735-asteroid-collision) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Queue
 |  |
 | ------- |
