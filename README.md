@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
+| [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
