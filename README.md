@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Interactive
 |  |
 | ------- |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
