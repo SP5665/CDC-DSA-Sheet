@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
