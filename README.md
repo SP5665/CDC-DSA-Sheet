@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1288-remove-covered-intervals) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
