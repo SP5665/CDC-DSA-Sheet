@@ -23,8 +23,8 @@ class Solution {
     }
     public void helper(TreeNode r) {
         if (r == null) return;
-        list.add(r.val);
         helper(r.left);
+        list.add(r.val);
         helper(r.right);
     }
 }
