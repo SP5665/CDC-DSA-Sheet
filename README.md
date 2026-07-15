@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
