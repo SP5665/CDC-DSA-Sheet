@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0735-asteroid-collision) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
