@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
