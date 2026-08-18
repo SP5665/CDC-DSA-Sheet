@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3731-find-missing-elements) |
 ## Binary Search
