@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
