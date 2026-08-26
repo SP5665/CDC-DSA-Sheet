@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1328-break-a-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1328-break-a-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
