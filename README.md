@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0628-maximum-product-of-three-numbers) |
