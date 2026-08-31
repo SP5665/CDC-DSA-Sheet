@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3220-odd-and-even-transactions) |
 | [3436-find-valid-emails](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3436-find-valid-emails) |
+| [3475-dna-pattern-recognition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3475-dna-pattern-recognition) |
 ## Linked List
 |  |
 | ------- |
