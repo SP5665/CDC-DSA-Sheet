@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0219-contains-duplicate-ii) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0264-ugly-number-ii) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0242-valid-anagram) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0139-word-break) |
 ## Union Find
 |  |
 | ------- |
@@ -743,4 +748,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2029-stone-game-ix) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
