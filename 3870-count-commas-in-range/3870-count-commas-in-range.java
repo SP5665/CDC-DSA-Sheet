@@ -5,6 +5,5 @@ class Solution {
             if (i >= 1000) count++;
         }
         return count;
-
     }
 }
