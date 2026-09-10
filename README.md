@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -780,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
