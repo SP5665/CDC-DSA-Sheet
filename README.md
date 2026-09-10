@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
+| [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
+| [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
@@ -787,4 +790,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
