@@ -791,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
