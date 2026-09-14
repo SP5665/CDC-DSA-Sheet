@@ -2,7 +2,6 @@ class Solution {
     public int maximalSquare(char[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
-        if (m==0 || n==0) return 0;
         int[][] dp = new int[m][n];
         int sides = 0;
         for (int i=0; i<m; i++) {
