@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0769-max-chunks-to-make-sorted) |
 | [0827-making-a-large-island](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0827-making-a-large-island) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0877-stone-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Counting
