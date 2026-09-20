@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0338-counting-bits) |
+| [0474-ones-and-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0474-ones-and-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -838,4 +841,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0164-maximum-gap) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
