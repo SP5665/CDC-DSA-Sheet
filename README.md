@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2029-stone-game-ix) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2363-merge-similar-items](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2363-merge-similar-items) |
 | [2540-minimum-common-value](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1328-break-a-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1328-break-a-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
