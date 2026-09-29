@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0474-ones-and-zeroes) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0836-rectangle-overlap) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0933-number-of-recent-calls) |
 ## Recursion
@@ -895,4 +899,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0474-ones-and-zeroes) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
