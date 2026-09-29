@@ -28,15 +28,12 @@ class Solution {
         q.offer(root);
         while (!q.isEmpty()) {
             int size = q.size();
-            List<Node> level = new ArrayList<>();
-            for (int i=0; i<size; i++) {
+            for (int i=size-1; i>=0; i--) {
                 Node node = q.poll();
-                level.add(node);
                 if (node.left != null) q.offer(node.left);
                 if (node.right != null) q.offer(node.right);
-                if (i>0) level.get(i-1).next = level.get(i);
+                if(i!=0) node.next=q.peek();
             }
-            level.get(level.size()-1).next = null;
         }
         return root;
     }
