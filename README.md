@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0289-game-of-life) |
 | [0827-making-a-large-island](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0827-making-a-large-island) |
 | [1260-shift-2d-grid](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2643-row-with-maximum-ones) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1535-find-the-winner-of-an-array-game) |
