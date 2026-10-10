@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1331-rank-transform-of-an-array) |
