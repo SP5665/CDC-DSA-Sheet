@@ -3,12 +3,11 @@ class Solution {
         int n = nums.length;
         int c=0;
         for (int i=0; i<n; i++) {
-            int sum=0;
-            for (int j=i; j<n; j++) {
+            int sum=nums[i];
+            if (sum == k) c++;
+            for (int j=i+1; j<n; j++) {
                 sum += nums[j];
-                if (sum == k) {
-                    c++;
-                }
+                if (sum == k) c++;
             }
         }
         return c;
