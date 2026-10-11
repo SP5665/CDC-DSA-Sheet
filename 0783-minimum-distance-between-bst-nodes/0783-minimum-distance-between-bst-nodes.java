@@ -20,13 +20,13 @@ class Solution {
     }
 
     private int ans = Integer.MAX_VALUE;
-    private Integer pred = null;
+    private int pred = -1;
 
     public void inorder(TreeNode root) {
         if (root == null) return;
 
         inorder(root.left);
-        if (pred != null)
+        if (pred != -1)
         ans = Math.min(ans, root.val - pred);
         pred = root.val;
         inorder(root.right);
