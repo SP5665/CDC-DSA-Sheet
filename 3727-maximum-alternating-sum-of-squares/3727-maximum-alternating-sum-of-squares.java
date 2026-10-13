@@ -2,7 +2,6 @@ class Solution {
     public long maxAlternatingSum(int[] nums) {
         long sum = 0;
         int n = nums.length;
-        if (n==1) return (long)Math.pow(nums[0], 2);
         for (int i=0; i<n; i++) nums[i] = Math.abs(nums[i]);
         Arrays.sort(nums);
         for (int i=0; i<n/2; i++) {
