@@ -1,7 +1,7 @@
 class Solution:
     def sumOfSquares(self, nums: List[int]) -> int:
         n = len(nums)
-        sum = 0
+        ans = 0
         for i in range(n):
-            if n % (i + 1) == 0: sum += nums[i] ** 2
-        return sum
+            if n % (i + 1) == 0: ans += nums[i] ** 2
+        return ans
