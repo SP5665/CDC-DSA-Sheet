@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3719-longest-balanced-subarray-i) |
 ## Game Theory
 |  |
@@ -946,4 +949,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
