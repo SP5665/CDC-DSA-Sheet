@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0827-making-a-large-island](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0827-making-a-large-island) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
