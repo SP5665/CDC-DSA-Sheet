@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1328-break-a-palindrome) |
+| [1382-balance-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2029-stone-game-ix) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -826,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/SP5665/CDC-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
